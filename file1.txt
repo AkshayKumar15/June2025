@@ -1,7 +1,3 @@
 line1
 line2
-<<<<<<< HEAD
 line3
-=======
-line3
->>>>>>> 68bdb7c2501e6ca87f5757554b482ab33aa85089
